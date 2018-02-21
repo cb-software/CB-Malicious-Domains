@@ -1,1 +1,6 @@
-
+[Adblock Plus 2.0]
+! Title: CB Malicious Domains
+! Expires: 2 days
+! Homepage: https://github.com/cb-software/CB-Malicious-Domains
+! Licence: https://github.com/cb-software/CB-Malicious-Domains/blob/master/LICENSE
+!
