@@ -31,4 +31,4 @@
 ||chiropractic-wellness.com^
 ||theunknowncomposer.com^
 ||nautinell211.000webhostapp.com^
-|page-confrim-safe.ml^
+||page-confrim-safe.ml^
