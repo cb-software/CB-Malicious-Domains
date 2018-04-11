@@ -72,3 +72,4 @@
 ||flirt.com^
 ||clickandflirt.com^
 ||digitechinfosolutions.com^
+||webserve.xyz^
