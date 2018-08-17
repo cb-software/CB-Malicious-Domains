@@ -81,3 +81,4 @@
 ||trafficsourceoftoplevelcontentsources.download^
 ||myphonesupport.com^
 ||agile-support.net^
+||trovi.com^
